@@ -38,14 +38,12 @@ Designed for speed, simplicity, and real-world usage.
 - 🧠 Lightweight & fast  
 
 ---
-
 ## 🎥 Preview
 
 <p align="center">
-  <a href="https://d2b6stxjw39da8.cloudfront.net/8nupk/file/2b613cfb33471b1ff17249222da5a293_573222a21929a98601e13db117aeb06c.mp4">
-    <img src="./assets/preview.png" width="700">
-  </a>
+  <img src="https://i.ibb.co/9HxrgMxj/Preview.gif" width="700">
 </p>
+
 ```html
 
 

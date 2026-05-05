@@ -67,14 +67,14 @@ sudo apt install python3-pip
 ---
 ## ⚡ Installation
 
-Kali Linux & Termux
+## Kali Linux & Termux
 
 ```bash
 git clone https://github.com/MRXVOID/gourl.git
 cd gourl
 python3 setup.py
 ```
-Windows
+## Windows [CMD]
 
 Download Zip 👇
 

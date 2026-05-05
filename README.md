@@ -3,8 +3,7 @@
 ![logo](https://i.ibb.co/FQZgxX6/one.png)
 
 <p align="center">
-  <b>🚀 Upload. Share. Anywhere.</b><br><br>
-  <sub>Fast • Minimal • Powerful CLI Tool</sub>
+  <img src="https://img.shields.io/badge/🚀_Upload_Share_Anywhere_•_Fast_Minimal_Powerful-black?style=for-the-badge">
 </p>
 
 ---

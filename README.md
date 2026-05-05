@@ -1,6 +1,6 @@
 
 
-![logo](https://www.instagram.com/p/DX9q2ZxTxM3/?igsh=em1pc3RqMGpkMzF3)
+![logo](https://i.ibb.co/FQZgxX6/one.png)
 
 <p align="center">
   <b>Upload. Share. Anywhere.</b><br>

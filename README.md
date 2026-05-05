@@ -76,4 +76,10 @@ python3 setup.py
 ```
 Windows
 
+Download Zip 👇
+
+```bash
+https://github.com/MRXVOID/gourl/archive/refs/heads/main.zip
+```
+
 

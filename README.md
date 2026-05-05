@@ -44,6 +44,5 @@ Designed for speed, simplicity, and real-world usage.
   <img src="https://i.ibb.co/9HxrgMxj/Preview.gif" width="700">
 </p>
 
-```html
-
+```
 

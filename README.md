@@ -110,10 +110,10 @@ gourl --help
 
 <p align="center">
   <a href="https://instagram.com/hacktubin">
-    <img src="https://img.shields.io/badge/📸_Follow_on_Instagram-ff0066?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/_Follow_on_Instagram-ff0066?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://youtube.com/@hacktubin">
-    <img src="https://img.shields.io/badge/▶️_Subscribe_on_YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/_Subscribe_on_YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
 
@@ -122,12 +122,6 @@ gourl --help
 </p>
 
 <p align="center">
-  <a href="https://github.com/MRXVOID/gourl/stargazers">
-    <img src="https://img.shields.io/github/stars/MRXVOID/gourl?style=for-the-badge&color=000000&label=⭐%20Star%20Repo">
-  </a>
-  <a href="https://github.com/MRXVOID/gourl/fork">
-    <img src="https://img.shields.io/github/forks/MRXVOID/gourl?style=for-the-badge&color=555555&label=🍴%20Fork%20Project">
-  </a>
   <a href="https://twitter.com/intent/tweet?text=Check%20out%20gourl%20CLI%20tool&url=https://github.com/MRXVOID/gourl">
     <img src="https://img.shields.io/badge/📢_Share_Project-1DA1F2?style=for-the-badge">
   </a>

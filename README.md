@@ -104,6 +104,27 @@ gourl -f file1.txt file2.jpg file3.zip
 gourl --help
 ```
 
-## Dev
+---
 
-<p align="center"> <a href="https://instagram.com/hacktubin"> <img src="https://img.shields.io/badge/Follow-Hacktubin-ff0066?style=for-the-badge"> </a> </p> <p align="center"> 🔐 Ethical Hacker • ⚡ CLI Tool Developer • 🧠 Automation Enthusiast </p>
+## 👨‍💻 Developer & Support
+
+<p align="center">
+  <a href="https://instagram.com/hacktubin">
+    <img src="https://img.shields.io/badge/📸_Instagram-Hacktubin-ff0066?style=for-the-badge">
+  </a>
+  <a href="https://youtube.com/@yourchannel">
+    <img src="https://img.shields.io/badge/▶️_YouTube-Subscribe-ff0000?style=for-the-badge">
+  </a>
+</p>
+
+<p align="center">
+  🔐 Ethical Hacker • ⚡ CLI Tool Developer • 🧠 Automation Enthusiast
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⭐_Star_This_Repo-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🍴_Fork_It-grey?style=for-the-badge">
+  <img src="https://img.shields.io/badge/📢_Share-blue?style=for-the-badge">
+</p>
+
+---

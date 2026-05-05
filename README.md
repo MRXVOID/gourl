@@ -44,4 +44,17 @@ Designed for speed, simplicity, and real-world usage.
   <img src="https://i.ibb.co/9HxrgMxj/Preview.gif" width="700">
 </p>
 
+---
+
+## ⚡ Installation
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Setup-gourl-00ff00?style=for-the-badge">
+</p>
+
+### 📦 Clone Repository
+
+```bash
+git clone https://github.com/your-username/gourl.git
+cd gourl
 

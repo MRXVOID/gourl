@@ -82,4 +82,24 @@ Download Zip 👇
 https://github.com/MRXVOID/gourl/archive/refs/heads/main.zip
 ```
 
+## 🚀 Usage
 
+### 🔹 Basic Upload
+```bash
+gourl -f file.txt
+```
+
+## 🔹 URL + QR Code
+```bash
+gourl -f file.txt -u -qr
+```
+
+## 🔹 Multiple Files
+```bash
+gourl -f file1.txt file2.jpg file3.zip
+```
+
+## 🔹 For Help
+```bash
+gourl --help
+```

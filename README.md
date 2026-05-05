@@ -3,8 +3,8 @@
 ![logo](https://i.ibb.co/FQZgxX6/one.png)
 
 <p align="center">
-  <b>Upload. Share. Anywhere.</b><br>
-  Fast • Minimal • Powerful CLI Tool
+  <b>🚀 Upload. Share. Anywhere.</b><br><br>
+  <sub>Fast • Minimal • Powerful CLI Tool</sub>
 </p>
 
 ---

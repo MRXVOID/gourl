@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3.14.4-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Termux%20%7C%20Windows-black?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
 </p>

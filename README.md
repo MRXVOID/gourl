@@ -41,8 +41,10 @@ Designed for speed, simplicity, and real-world usage.
 
 ## 🎥 Preview
 
-> 📌 Add your demo video here
+▶️ Watch Demo:  
+
+https://d2b6stxjw39da8.cloudfront.net/8nupk%2Ffile%2F2b613cfb33471b1ff17249222da5a293_573222a21929a98601e13db117aeb06c.mp4?response-content-disposition=inline%3Bfilename%3D%222b613cfb33471b1ff17249222da5a293_573222a21929a98601e13db117aeb06c.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1778022028&Signature=VtOpnAC4IzuxLInCJIz70R5zcx7lgsH-YQHsJsDkJWZ2AKOkXkcZqN84ICeU97GPCv01xIzfWkIhIKHuButZhJa0WLCtOqazSHQKl4H1kAMgWcZe4afHYdtHAMITOyHfpfyZ7VCSC~3Y4TJyB8mXp0OCOzzegSpJ4ybNjx-FPDpQJFHN9uBtbhKfF~puNLDADByfqi~IV08jkm1nehDAcjYiZccZSMA1X9ikOyjZz6q24a7DtfYGnFSgqf0W1MO6Wp7feGhLI5kCXUuNrnOfuDgnXtbwAPD91eLnITXvam3T4VrhHgg9gMG0uDhXiro~vrS4w4P5Vlm~uMzWZHeepA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ
 
 ```html
-<!-- Example -->
-<video src="./assets/demo.mp4" controls width="100%"></video>
+
+

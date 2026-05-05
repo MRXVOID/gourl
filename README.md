@@ -122,9 +122,15 @@ gourl --help
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⭐_Star_This_Repo-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/🍴_Fork_It-grey?style=for-the-badge">
-  <img src="https://img.shields.io/badge/📢_Share-blue?style=for-the-badge">
+  <a href="https://github.com/MRXVOID/gourl/stargazers">
+    <img src="https://img.shields.io/github/stars/MRXVOID/gourl?style=for-the-badge&color=black&label=⭐%20Star">
+  </a>
+  <a href="https://github.com/MRXVOID/gourl/fork">
+    <img src="https://img.shields.io/github/forks/MRXVOID/gourl?style=for-the-badge&color=grey&label=🍴%20Fork">
+  </a>
+  <a href="https://twitter.com/intent/tweet?text=Check%20out%20gourl%20CLI%20uploader&url=https://github.com/MRXVOID/gourl">
+    <img src="https://img.shields.io/badge/📢_Share-blue?style=for-the-badge">
+  </a>
 </p>
 
 ---

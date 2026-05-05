@@ -46,9 +46,31 @@ Designed for speed, simplicity, and real-world usage.
 
 ---
 
-## ⚡ Installation
+## Requirements
+
+Termux
 
 ```bash
-git clone https://github.com/your-username/gourl.git
-cd gourl
 
+apt install python3-pip
+
+```
+
+Linux
+
+```bash
+
+sudo apt install python3-pip
+
+```
+
+---
+## ⚡ Installation
+
+## Kali Linux & Termux
+
+```bash
+git clone https://github.com/MRXVOID/gourl.git
+cd gourl
+python3 setup.py
+```

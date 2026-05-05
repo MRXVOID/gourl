@@ -103,3 +103,7 @@ gourl -f file1.txt file2.jpg file3.zip
 ```bash
 gourl --help
 ```
+
+## Dev
+
+<p align="center"> <a href="https://instagram.com/hacktubin"> <img src="https://img.shields.io/badge/Follow-Hacktubin-ff0066?style=for-the-badge"> </a> </p> <p align="center"> 🔐 Ethical Hacker • ⚡ CLI Tool Developer • 🧠 Automation Enthusiast </p>
